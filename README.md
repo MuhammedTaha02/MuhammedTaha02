@@ -1,6 +1,6 @@
 ### 👋 Merhaba profilime bakan kişi 👋
 
-[![Muhammed'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=MuhammedTaha02)](https://github.com/anuraghazra/github-readme-stats)
+![Muhammed'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=MuhammedTaha02&show_icons=true&theme=dark)
 
 
 ### Benim (Şuan) Kullandığım Sistemler/Diller
