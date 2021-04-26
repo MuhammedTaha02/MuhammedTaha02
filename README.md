@@ -3,7 +3,7 @@
 ![Muhammed'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=MuhammedTaha02&show_icons=true&theme=dark)
 
 
-### Benim (Şuan) Kullandığım Sistemler/Diller
+### Benim Kullandığım/TavsiyeEttiğim Sistemler/Diller
 
 <code><a href="https://archlinux.org" target="_blank"><img height="50" src="https://archlinux.org/static/archnavbar/archlogo.a2d0ef2df27d.png"></a></code>
 <code><a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Full/Installation" target="_blank"><img height="50" src="https://assets.gentoo.org/tyrian/v1/site-logo.svg"></a></code>
