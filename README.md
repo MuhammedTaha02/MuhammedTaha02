@@ -1,6 +1,7 @@
 ### 👋 Merhaba profilime bakan kişi 👋
 
 ![Muhammed'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=MuhammedTaha02&show_icons=true&theme=dark)
+![](https://komarev.com/ghpvc/?username=MuhammedTaha02)
 
 
 ### Benim Kullandığım/TavsiyeEttiğim Sistemler/Diller
